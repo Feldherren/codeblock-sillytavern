@@ -1,5 +1,6 @@
 # codeblock-sillytavern
 A custom 'programming' language JSON for use with Extended Code Highlight in Obsidian to highlight macros.
+Eventually I want to graduate to writing a proper Obsidian plugin, so broken macros (typos, wrong brackets, or fewer/more curly braces than needed) can be highlighted, but for now Extended Code Highlight is a good stopgap measure.
 
 # Usage
 1. Install Extended Code Highlight to your Obsidian vault; it's available via Community Plugins.
