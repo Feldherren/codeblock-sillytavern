@@ -1,0 +1,8 @@
+{
+    "id": "st-prompt",
+    "aliases": ["sillytavern-prompt"],
+    "tokens": [
+        { "name": "string", "pattern": "\\{\\{(char|user|group|groupNotMuted|charIfNotGroup|notChar)\\}\\}", "flags": "i" },
+        { "name": "number", "pattern": "\\{\\{(time|date)\\}\\}", "flags": "i" }
+    ]
+}
