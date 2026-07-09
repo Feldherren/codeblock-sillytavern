@@ -1,8 +1,12 @@
+# codeblock-sillytavern
+A custom 'programming' language JSON for use with Extended Code Highlight in Obsidian to highlight macros.
+
 # Usage
 1. Install Extended Code Highlight to your Obsidian vault; it's available via Community Plugins.
 2. (With Extended Code Highlight default settings) go to \.obsidian\plugins\extended-code-highlight inside your Obsidian vault and create a new folder 'languages'
 3. Drop st-prompt.json into the new 'languages' folder
-4. At the start of multiline codeblocks, immediately after the trio of backticks, add 'st-script'; ie:
+4. In Obsidian, with your vault open, open the command palette, enter 'Extended Code Highlight', and select 'Extended Code Highlight: Reload extended highlight languages'
+5. At the start of multiline codeblocks, immediately after the trio of backticks, add 'st-script'; eg:
 
 ```st-script
 text goes here
