@@ -9,6 +9,6 @@ Eventually I want to graduate to writing a proper Obsidian plugin, so broken mac
 4. In Obsidian, with your vault open, open the command palette, enter 'Extended Code Highlight', and select 'Extended Code Highlight: Reload extended highlight languages'
 5. At the start of multiline codeblocks, immediately after the trio of backticks, add 'st-script'; eg:
 
-```st-script
+\`\`\`st-script
 text goes here
-```
+\`\`\`
