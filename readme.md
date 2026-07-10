@@ -10,5 +10,7 @@ Eventually I want to graduate to writing a proper Obsidian plugin, so broken mac
 5. At the start of multiline codeblocks, immediately after the trio of backticks, add 'st-script'; eg:
 
 \`\`\`st-script
+
 text goes here
+
 \`\`\`
